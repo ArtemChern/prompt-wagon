@@ -42,7 +42,7 @@ Version|Date|Comments
 
 ### Using the solution zip
 
-* [Download](./solution/solution.zip) the `.zip` from the `solution` folder.
+* [Download](./solution/promptwagon.zip) the `.zip` from the `solution` folder.
 
 * Navigate to [https://make.powerapps.com](https://make.powerapps.com).
 
